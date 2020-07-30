@@ -19,5 +19,9 @@
   "homepage": "https://github.com/TimaJuma/json_the_cat#readme",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "file:node_modules/chai",
+    "mocha": "^8.1.0"
   }
 }
